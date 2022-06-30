@@ -1,3 +1,2 @@
 # text-classification
-Text classification using machine learning algorithms.\
-dataset: documents.sql
+We implemented some classification algorithms (MLP, KNN, Decision tree, Naive Bayes) on the Hamshahri dataset (a newspaper dataset).
